@@ -5,3 +5,40 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Spline Sans', sans-serif;
 margin: 0;
 }
+.display-flex{
+    display: flex;
+}
+.half-text-color{
+    color: rgb(190, 11, 182);
+}
+.banner-section{
+
+}
+.style-header{
+    font-size: 35px;
+  border-left: 5px solid rgb(190, 11, 182);
+  border-radius: 5px;
+
+
+    
+}
+.half-width p{
+    margin-bottom: 30px;  
+}
+.half-width{
+    width: 50%;
+    margin-left: 40px;
+   
+}
+.half-width img{
+    width: 80%;
+    margin-left: 40px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+  background-image: linear-gradient(rgb(104, 16, 163), rgb(190, 11, 182));
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-weight: 400;
+}
